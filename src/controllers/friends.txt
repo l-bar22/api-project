@@ -1,0 +1,82 @@
+
+friends_personaje= {'name':['Rachel','Monica','Joey','Chandler','Ross','Phoebe'],
+'familyname':['Green','Geller','Tribbiani','Bing','Geller','Buffay']}
+
+
+conv1={
+'Rachel':'Vale, Joey, como tienes que devolver la ropa, vas a tener que llevar calzoncillos.',
+
+'Joey': '(Cara de fastidio) Entonces será mejor que también me enseñes algunos.',
+
+'Rachel': 'Vale, te falta algo… ¡Ah! Ya sé. Vale…(Rachel coge un bolso y se lo muestra a Joey)',
+
+'Joey':'¿En serio? ¿Un bolso?',
+
+'Rachel': 'No es un bolso, es un portafolios. (Se lo pone)',
+
+'Joey': 'Parece un bolso de tía…',
+
+'Rachel':'(Dándole el portafolios) No, Joey, escucha, confía en mí… Todos los hombres del catálogo de primavera los llevan. (Va a por el catálogo y se lo muestra) Mira, ¿lo ves? Son hombres con portafolios.',
+
+'Joey': '¿Lo ves? Mira, mujeres con portafolios.(Joey se lo pone y se mira al espejo. Pone cara de satisfacción)',
+
+'Joey': 'Pero… es curioso que un bolso de tía me quede tan bien a mí, un hombre…',
+
+'Rachel': '¡Exacto! Es unisex.',
+
+'Joey': 'Eso lo dirás por ti… Yo hago el amor varias veces…',
+
+'Rachel':' (Se ríe) Oh, no, Joey, es para ambos sexos.',
+
+'Joey': '(Sonriendo) Bueno, si eso es lo que te gusta…'}
+
+conv2={
+    'Monica': 'Phoebe, pareces un poco tensa.',
+
+'Phoebe': '¿En serio?',
+
+'Monica':'Espera, te ayudaré.',
+
+'Phoebe': 'Vale.',
+
+'Monica': 'Venga. (Comienza a hacerle un masaje)',
+
+'Phoebe': '(Gritando) ¡Au! ¡Déjame! ¡Au! ¡Para! ¿Por qué? ¿Por qué me has hecho eso?',
+
+'Monica': '(Asombrada) ¿De qué estás hablando?',
+
+'Phoebe': 'Como masajista y ser humano, te suplico que no le hagas eso nunca a nadie.',
+
+'Monica': '(Se ríe nerviosa) Pero si yo doy muy buenos masajes…'
+
+}
+
+conv3={
+    'Ross':'(al teléfono) De acuerdo, adiós. (cuelga) Bueno, Monica no puede ir, así que sólo estaremos Rachel y yo.',
+
+'Chandler': 'Oh. Espera un momento, estás seguro de lo que vas a hacer?',
+
+'Ross': 'Voy a la lavandería porque tengo que hacer la colada.',
+
+'Chandler': 'Dices que sólo vais a ir Rachel y tú?',
+
+'Ross': 'Sí.',
+
+'Chandler': 'Es una cita. Vas a tener una cita.',
+
+'Ross': 'Noo-oh.',
+
+'Chandler': 'Ya loo-oh creo.',
+
+'Ross': 'Qué intentas decirme? Que debería afeitarme, comprar un poco de vino, o qué?',
+
+'Chandler': 'Bueno, deberías replantearte lo de la ropa interior. Será la primera vez que ella vea tu ropa interior... quieres que esté sucia?',
+
+'Ross': '[desconcertado] No.',
+
+'Chandler': 'Oh, y qué me dices del suavizante?',
+
+'Ross': 'Espera, espera, qué tiene de malo mi suavizante? Oye, puedo saber qué le pasa? Indica que soy un tío sensible y afectuoso como un osito de peluche. Está bien, compraré uno de camino.',
+
+'Chandler': 'Bien pensado.'
+}
