@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # API-PROJECT
 ![Friends image]()
 
@@ -23,3 +24,6 @@ La Api está creada en distintos entornos virtuales y utiliza principalmente el 
 -**Insertar datos**
 	-Utilizando el método **POST** podemos insertar datos directamente en la base de datos que hemos creado en el entorno virtual que conecta con nuestro localhost de MongoDB.
 	-Posteriormente con el método **GET** se realizan las consultas sobre ese database,devolviendo la información de cada personaje o de las conversaciones que han tenido.
+=======
+
+>>>>>>> origin
