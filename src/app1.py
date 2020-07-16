@@ -62,8 +62,9 @@ def get_users():
 @app.route('/users/<id>',methods=['GET'])
 def get_user(id):
     user=mongo.db.users.find_one('_id':ObjectId(id))
-    response =json_util(user)
+    response =json_util.dumps(user)
     return response
+    
 
 @app.errorhandler(404)
 def not_found(error=None):
