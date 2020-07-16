@@ -3,7 +3,7 @@
 Esta Api contiene información sobre los personajes de la mítica serie Friends y alamacena algunos de los diálogos que se han utilizado en distintos capítulos.
 La Api está creada en distintos entornos virtuales y utiliza principalmente el módulo ***Flask*** para generar la estructura web para python.Además,también se utilizará el servidor ***MongoDB*** para almacenar los datos y el protocolo ***HTTP*** para crear y consultar el contenido. 
 
-##¿Cómo se ha creado?
+## ¿Cómo se ha creado?
 ### Entornos Virtuales
 - **Src**
 	Dentro se ubican los archivos controllers y helpers.El primero contiene la s funciones controladoras formadas por una función y un decorador que permite controlar la ruta a la que se dirige el usuario.Mediante el protocolo *HTTP* podemos o bien,trasladar insertar datos en la Api(método‘GET’) o hacer consultas(método ‘POST’).Estas funciones también permiten insertar los datos que se pasan al servidor MongoDB y crear bases de datos y colecciones.
