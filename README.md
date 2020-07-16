@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# API-PROJECT
-![Friends image]()
-
 # API-FRIENDS
 
 Esta Api contiene información sobre los personajes de la mítica serie Friends y alamacena algunos de los diálogos que se han utilizado en distintos capítulos.
@@ -19,8 +15,8 @@ La Api está creada en distintos entornos virtuales y utiliza principalmente el 
 	El archivo principal,permite ver todas las rutas y funciones que permiten que la app funcione.
 	
 
-##Uso
-###Jupyter-notebook
+## Uso
+### Jupyter-notebook
 -**Insertar datos**
 	-Utilizando el método **POST** podemos insertar datos directamente en la base de datos que hemos creado en el entorno virtual que conecta con nuestro localhost de MongoDB.
 	-Posteriormente con el método **GET** se realizan las consultas sobre ese database,devolviendo la información de cada personaje o de las conversaciones que han tenido.
