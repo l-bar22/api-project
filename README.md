@@ -1,4 +1,5 @@
 # API-FRIENDS
+![Friends](http://1.bp.blogspot.com/-r1Pw4lO42dw/Ur4GfpFvECI/AAAAAAAAE-A/mLa8Em-pRc0/s1600/friends_001.jpg)
 
 Esta Api contiene información sobre los personajes de la mítica serie Friends y alamacena algunos de los diálogos que se han utilizado en distintos capítulos.
 La Api está creada en distintos entornos virtuales y utiliza principalmente el módulo ***Flask*** para generar la estructura web para python.Además,también se utilizará el servidor ***MongoDB*** para almacenar los datos y el protocolo ***HTTP*** para crear y consultar el contenido. 
